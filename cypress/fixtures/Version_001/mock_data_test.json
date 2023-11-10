@@ -1,0 +1,12 @@
+{
+  "URL": {
+    "Test_URL": "https://hugeman.co/"
+    
+  },
+
+  "Element": {
+    "Lasted_Blog": ".elementor-element-367993a > .elementor-widget-container > .elementor-heading-title",
+    "Header_Page": ""
+  }
+
+}
